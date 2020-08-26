@@ -1,25 +1,25 @@
 # Rock Paper Scissors Project
 
 ## Overview: 
-In this unit, coders will create a Rock, Paper, Scissors game. To create this project, coders will use JavaScript to take user input, use the Math Library to pick a random computer choice, and use conditionals to determine the winner.
+aIn this unit, coders will create a Rock, Paper, Scissors game. To create this project, coders will use JavaScript to take user input, use the Math Library to pick a random computer choice, and use conditionals to determine the winner.
 
 ## Day 1
-
+a
 #### Planning
 - [ ] Copy the [project planning document](https://docs.google.com/document/d/1CCzFGH6Z4AtpWrDuB6KQK73N5-8ywGv0KhO10i3hZPk/edit#) and link a completed version in your ReadMe.
 #### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/rockpaperscissors
-- [ ] Fork this repository to your Github account and pull it down to Glitch
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
-
+- [x] Fork this repository to your Github account and pull it down to Glitch
+- [x] Add, commit, and push your changes
+- [x] Make your site live on gh-pages
+a
 ### JavaScript
-- [ ] Use JavaScript to display the value of the input on the page
+- [x] Use JavaScript to display the value of the input on the page
 
 
 ### HTML and CSS
-- [ ] Add any more HTML elements you will need to the page
-- [ ] Customize your HTML with CSS
+- [x] Add any more HTML elements you will need to the page
+- [x] Customize your HTML with CSS
 
 #### Wrap
 - [ ] Push your changes!
